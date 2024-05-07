@@ -4,3 +4,6 @@ Training yolo(v8) on custom dataset(from Kaggle)to detect and classify persons t
 
 # train the mode
 In order to train the model run trainer.py
+
+# Check the Results
+after the trainer file ends, check the Runs folder, the results will be there

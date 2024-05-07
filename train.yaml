@@ -1,0 +1,8 @@
+train: './Mask_Dataset/train'
+val: './Mask_Dataset/val'
+nc: 3
+# class names
+names: 
+  0: 'without_mask'
+  1: 'with_mask'
+  2: 'mask_worn_incorrectly'
